@@ -1,6 +1,7 @@
 ### Hi there 👋
-My name is Mihye (it's like me-hey) 😄<br>
-I'm a Full-Stack/ Back-End Developer, DevOps Enthusiast 🌱
+My name is Mihye (it's like me-hey) 😄  
+I'm a Full-Stack/ Back-End Developer, DevOps Enthusiast 🌱  
+I am currently open work! 🏭
 
 ## 💻 Technical Skills
 - **Programming Languages:** C#, Java, C, Python, TypeScript, JavaScript, HTML5, CSS, PHP, SQL
