@@ -1,8 +1,6 @@
 ### Hi there 👋
-My name is Mihye (it's like me-hey)<br>
+My name is Mihye (it's like me-hey) 😄<br>
 I'm a Full-Stack/ Back-End Developer, DevOps Enthusiast 🌱
-
-😄 Pronouns: She/Her
 
 💻 Technical Skills<br>
 <ul>
