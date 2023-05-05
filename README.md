@@ -7,9 +7,9 @@ I'm a Full-stack/ Back-end Developer, DevOps Enthusiast
 💻⚡Technical Skills<br>
 <b>Programming Languages:</b> C#, Java, C, Python, TypeScript, JavaScript, HTML5, CSS, PHP, SQL<br>
 <b>UI Frameworks/ Technologies:</b> Angular, Spring Boot, .NET, Thymeleaf, Flask, Jinja, Swagger<br>
-<b>Database Technologies:</b> SQL Server, MongoDB, MySQL, H2, SQLite<br>
+<b>Database Technologies:</b> SQL Server, MongoDB, MySQL, H2, SQLite<br><br>
 
-
+📫 Feel free to reach me mhbang820@gmail.com
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
