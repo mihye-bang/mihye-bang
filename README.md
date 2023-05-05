@@ -4,10 +4,10 @@ I'm a Full-stack/ Back-end Developer, DevOps Enthusiast
 
 😄 Pronouns: She/Her
 
-💻⚡Technical Skills
-<b>Programming Languages:</b> C#, Java, C, Python, TypeScript, JavaScript, HTML5, CSS, PHP, SQL
-<b>UI Frameworks/ Technologies:</b> Angular, Spring Boot, .NET, Thymeleaf, Flask, Jinja, Swagger
-<b>Database Technologies:</b> SQL Server, MongoDB, MySQL, H2, SQLite
+💻⚡Technical Skills<br>
+<b>Programming Languages:</b> C#, Java, C, Python, TypeScript, JavaScript, HTML5, CSS, PHP, SQL<br>
+<b>UI Frameworks/ Technologies:</b> Angular, Spring Boot, .NET, Thymeleaf, Flask, Jinja, Swagger<br>
+<b>Database Technologies:</b> SQL Server, MongoDB, MySQL, H2, SQLite<br>
 
 
 <!-- - 🔭 I’m currently working on ...
