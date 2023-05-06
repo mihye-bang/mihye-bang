@@ -8,6 +8,7 @@ I am currently open to work! 👩‍💻
 - **UI Frameworks/ Technologies:** Angular, Spring Boot, .NET, Thymeleaf, Flask, Jinja, Swagger
 - **Database Technologies:** SQL Server, MongoDB, MySQL, H2, SQLite
 - **Applications/ Tools:** Visual Studio Code, Unity, MongoDB Compass, H2 Database Engine, Figma, SQL Server Management Studio, NetBeans, Eclipse, Visual Paradigm, Microsoft Visual Studio, GitHub, SourceTree, PowerBI, Microsoft Office 365(PowerPoint, Word, Excel)
+- **Cloud Technologies:** Amazon Web Services (AWS)
 - **Operating Systems:** Windows, Linux
 
 
