@@ -12,4 +12,10 @@ I am currently open to work! 👩‍💻
 - **Operating Systems:** Windows, Linux
 
 
-📫 Feel free to reach me ☺ [Email](mhbang820@gmail.com)
+📫 Feel free to reach me ☺ [Email](mhbang820@gmail.com)  
+  
+  
+<img align="left" alt="mihye's Github Top languages" src="https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&exclude_repo=UMACharacterCreator,demo,gamehub&layout=compact" />
+<img align="right" alt="mihye's Github Stats" src="https://github-readme-stats-mihye-bang.vercel.app/api?username=mihye-bang&show_icons=true&count_private=true" />  
+
+
