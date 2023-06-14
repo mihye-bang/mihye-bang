@@ -7,7 +7,7 @@ I am currently open to work! 👩‍💻
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhbang820@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihye-bang/)
 [![Devpost](https://img.shields.io/badge/Hackathon-%230D597F.svg?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/mihye-bang)
-[![Unity](https://img.shields.io/badge/Unity-222324.svg?style=for-the-badge&logo=unity&logoColor=white)](https://www.mihyebang.com/) 
+[![Unity](https://img.shields.io/badge/Unity-222324.svg?style=for-the-badge&logo=unity&logoColor=white)](https://play.unity.com/u/mihye-bang) 
 
 ## 💻 Technical Skills
 - **Programming Languages:** Java, Python, C#, TypeScript, JavaScript, C, HTML5, CSS, PHP, SQL, Bash
