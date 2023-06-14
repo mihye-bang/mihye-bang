@@ -25,14 +25,12 @@ I am currently open to work! 👩‍💻
 [![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
-<!--<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mihye-bang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihye-bang" height="30" width="40" /></a>
-</p>   -->
+<br>  
 
-<!-- 🌐 Check out [my website](https://www.mihyebang.com/)!  
-📫 Feel free to reach me at mhbang820@gmail.com   -->
-  
+<p><img align="left" src="https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&layout=compact&exclude_repo=UMACharacterCreator,demo,gamehub" alt="mihye-bang" /></p>
+<p><img align="center" src="https://github-readme-stats-mihye-bang.vercel.app/api?username=mihye-bang&show_icons=true&locale=en&hide=contribs" alt="mihye-bang" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihye-bang&" alt="mihye-bang" /></p>  
+
 <!-- ![Top Langs](https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&layout=compact&exclude_repo=UMACharacterCreator,demo,gamehub)  
 donut ver.
 [![Top Langs](https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&layout=donut&exclude_repo=UMACharacterCreator,demo,gamehub)](https://github.com/mihye-bang/github-readme-stats)
@@ -41,9 +39,3 @@ donut vertical ver.
 pie chart ver.
 [![Top Langs](https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&layout=pie&exclude_repo=UMACharacterCreator,demo,gamehub)](https://github.com/mihye-bang/github-readme-stats)
 ![Mihye's GitHub stats](https://github-readme-stats-mihye-bang.vercel.app/api?username=mihye-bang&show_icons=true) -->
-
-<p><img align="left" src="https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&layout=compact&exclude_repo=UMACharacterCreator,demo,gamehub" alt="mihye-bang" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-mihye-bang.vercel.app/api?username=mihye-bang&show_icons=true&locale=en&hide=contribs" alt="mihye-bang" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihye-bang&" alt="mihye-bang" /></p>  
