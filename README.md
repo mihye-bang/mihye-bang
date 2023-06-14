@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Mihye (it's like me-hey) 😄  
-I'm a Full-Stack/ Back-End Developer, DevOps Enthusiast 🌱  
+I'm a New Grad Full-Stack/ Back-End Developer, DevOps Enthusiast 🌱  
 I am currently open to work! 👩‍💻
 
 ## 💻 Technical Skills
