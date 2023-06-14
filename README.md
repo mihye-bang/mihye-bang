@@ -10,9 +10,11 @@ I am currently open to work! 👩‍💻
 - **Applications/ Tools:** Unity, Figma, Visual Paradigm, GitHub, SourceTree, PowerBI, Swagger, Postman
 - **Cloud Technologies:** Amazon Web Services (AWS), Azure
 - **Operating Systems:** Windows, Linux
-
-
-📫 Feel free to reach me at mhbang820@gmail.com ☺
+   
+    
+    
+⚡ Check out my website [HERE](https://www.mihyebang.com/)  
+📫 Feel free to reach me at mhbang820@gmail.com
   
   
 <!-- <img align="left" alt="mihye's Github Top languages" src="https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&exclude_repo=UMACharacterCreator,demo,gamehub&layout=compact" />
