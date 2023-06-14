@@ -19,7 +19,6 @@ I am currently open to work! 👩‍💻
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,cs,ts,js,c,html,css,php,bash,powershell)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=angular,spring,dotnet,flask)](https://skillicons.dev)
-<br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,vercel,maven,express,mongodb,mysql,sqlite)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=unity,figma,git,github,postman)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
