@@ -15,13 +15,17 @@ I am currently open to work! 👩‍💻
     
 ⚡ Check out my website [HERE](https://www.mihyebang.com/)  
 📫 Feel free to reach me at mhbang820@gmail.com
-  
-  
-<!-- <img align="left" alt="mihye's Github Top languages" src="https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&exclude_repo=UMACharacterCreator,demo,gamehub&layout=compact" />
-<img align="right" alt="mihye's Github Stats" src="https://github-readme-stats-mihye-bang.vercel.app/api?username=mihye-bang&show_icons=true&count_private=true" /> -->
 
-[![Top Langs](https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&exclude_repo=UMACharacterCreator,demo,gamehub&layout=compact)](https://github.com/mihye-bang/github-readme-stats)   
+![Top Langs](https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&layout=compact&exclude_repo=UMACharacterCreator,demo,gamehub)
 
-[![Anurag's GitHub stats](https://github-readme-stats-mihye-bang.vercel.app/api?username=mihye-bang&show_icons=true&count_private=true)](https://github.com/mihye-bang/github-readme-stats)
+<!-- donut ver.
+[![Top Langs](https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&layout=donut&exclude_repo=UMACharacterCreator,demo,gamehub)](https://github.com/mihye-bang/github-readme-stats)
+donut vertical ver.
+[![Top Langs](https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&layout=donut-vertical&exclude_repo=UMACharacterCreator,demo,gamehub)](https://github.com/mihye-bang/github-readme-stats)
+pie chart ver.
+[![Top Langs](https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&layout=pie&exclude_repo=UMACharacterCreator,demo,gamehub)](https://github.com/mihye-bang/github-readme-stats) -->
+
+![Mihye's GitHub stats](https://github-readme-stats-mihye-bang.vercel.app/api?username=mihye-bang&show_icons=true)
+
 
 
