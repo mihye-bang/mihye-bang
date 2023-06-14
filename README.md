@@ -17,19 +17,10 @@ I am currently open to work! 👩‍💻
 - **Cloud Technologies:** Amazon Web Services (AWS), Azure
 - **Operating Systems:** Windows, Linux  
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cs,ts,js,c,html,css,php,bash,powershell)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=angular,spring,dotnet,flask)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,vercel,maven,express,mongodb,mysql,sqlite)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=unity,figma,git,github,postman)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-
-<br>  
-
 <p><img align="left" src="https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&layout=compact&exclude_repo=UMACharacterCreator,demo,gamehub" alt="mihye-bang" /></p>
 <p><img align="center" src="https://github-readme-stats-mihye-bang.vercel.app/api?username=mihye-bang&show_icons=true&locale=en&hide=contribs" alt="mihye-bang" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihye-bang&" alt="mihye-bang" /></p>  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihye-bang&" alt="mihye-bang" /></p>   
+<br>
 <!-- ![Top Langs](https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&layout=compact&exclude_repo=UMACharacterCreator,demo,gamehub)  
 donut ver.
 [![Top Langs](https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&layout=donut&exclude_repo=UMACharacterCreator,demo,gamehub)](https://github.com/mihye-bang/github-readme-stats)
@@ -37,4 +28,11 @@ donut vertical ver.
 [![Top Langs](https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&layout=donut-vertical&exclude_repo=UMACharacterCreator,demo,gamehub)](https://github.com/mihye-bang/github-readme-stats)
 pie chart ver.
 [![Top Langs](https://github-readme-stats-mihye-bang.vercel.app/api/top-langs/?username=mihye-bang&layout=pie&exclude_repo=UMACharacterCreator,demo,gamehub)](https://github.com/mihye-bang/github-readme-stats)
-![Mihye's GitHub stats](https://github-readme-stats-mihye-bang.vercel.app/api?username=mihye-bang&show_icons=true) -->
+![Mihye's GitHub stats](https://github-readme-stats-mihye-bang.vercel.app/api?username=mihye-bang&show_icons=true) -->   
+  
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,ts,js,c,html,css,php,bash,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,spring,dotnet,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,vercel,maven,express,mongodb,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,figma,git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
