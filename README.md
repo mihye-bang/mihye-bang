@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Mihye (it's like me-hey) 😄  
-I'm a New Grad Full-Stack/ Back-End Developer, DevOps Enthusiast 🌱  
-I am currently open to work! 👩‍💻
+I'm a Full-Stack/ Back-End Developer, DevOps Enthusiast 🌱  
+Feel free to connect with me! 👩‍💻
 
 [![Website](https://img.shields.io/badge/mihyebang.com-FF69B4.svg?style=for-the-badge&logo=angular&logoColor=white)](https://www.mihyebang.com/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhbang820@gmail.com)
